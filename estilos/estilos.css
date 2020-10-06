@@ -1,0 +1,14 @@
+body
+{
+    color: palevioletred;
+    text-align: center;
+    font- font-family: "Arial";
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px;
+}
